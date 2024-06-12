@@ -1,4 +1,4 @@
-# DES-Encryption
+# DES Encryption
 
 ## Contents
 
