@@ -10,7 +10,7 @@ DES (Data Encryption Standard) is a symmetric-key cryptographic algorithm that w
 
 The DES algorithm works as follows:
 
-1. **Key Generation*: The algorithm takes a 56-bit key as input, which is used to encrypt and decrypt data.
+1. **Key Generation**: The algorithm takes a 56-bit key as input, which is used to encrypt and decrypt data.
 2. **Initial Permutation**: The 64-bit plaintext input is first subjected to an initial permutation, which rearranges the bits according to a predefined pattern.
 3. **Feistel Structure**: The permuted input is then divided into two 32-bit halves, which undergo 16 rounds of a Feistel network structure. In each round, the following steps are performed:
 + The right half is expanded from 32 bits to 48 bits.
